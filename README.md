@@ -319,9 +319,6 @@ We welcome contributions! Please follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Team
-
-- **Your Name** - Project Lead - [GitHub](https://github.com/yourusername)
 
 ## 🙏 Acknowledgments
 
@@ -331,4 +328,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**For questions or support, please contact: your-email@example.com**
+**For questions or support, please contact: vijaybgaddi32@gmail.com**
